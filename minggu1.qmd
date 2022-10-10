@@ -1,0 +1,20 @@
+---
+title: "Konsep Dasar Ilmu Ekonomi dan Pendapatan Nasional"
+author: "Tedy Herlambang"
+format: revealjs
+editor: visual
+---
+
+## Cakupan Isi Materi
+
+- Pengertian dan konsep dasar  ilmu ekonomi
+- Perbedaan antara ekonomi mikro dan makro
+- Aliran-aliran ilmu ekonomi
+- Isu-isu dalam ekonomi makro
+- Pembangunan ekonomi
+
+## Konsep Dasar Ilmu Ekonomi
+
+- Ilmu ekonomi sebenarnya didasarkan pada tiga (3) konsep penting, yaitu kelangkaan (scarcity), pilihan (choice), dan pengambilan keputusan (decision making). 
+- Ilmu ekonomi muncul karena manusia selalu ingin mendapatkan sesuatu melebihi sumberdaya yang dimilikinya.
+- Ilmu ekonomi diperlukan untuk memahami bagaimana cara memenuhi keinginan yang tidak terbatas tersebut dengan sumberdaya yang terbatas.
