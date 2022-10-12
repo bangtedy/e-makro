@@ -31,9 +31,12 @@ editor: visual
 -   Istilah economics berasal dari bahasa Yunani kuno yaitu οἶκος (oikos, "rumah tangga") + νόμος (nomos, "kebiasaan" atau "hukum"), dimana gabungan kedua kata tersebut dapat diterjemahkan sebagai "aturan/kebiasaan dalam rumah tangga".
 -   Ilmu ekonomi adalah studi aktivitas produksi konsumsi dan pertukaran barang.
 
-## Definisi Ilmu Ekonomi
+## Definisi Ilmu Ekonomi..lnjt
 
 -   Ilmu ekonomi adalah ilmu tentang memilih, yakni bagaimana orang memilih memanfaatkan sumberdaya yang terbatas (pendapatan dan waktu) untuk menghasilkan tingkat kepuasan maksimal, serta bagaimana perusahaan memilih kombinasi input serta besaran dan jenis komoditas yang diproduksi (televisi, radio, kompor, dan sebagainya), serta mendistribusikan berbagai komoditas tersebut ke berbagai anggota masyarakat untuk dikonsumsi.
+
+## Definisi Ilmu Ekonomi..lnjt
+
 -   Ilmu ekonomi adalah studi tentang bagaimana masyarakat memanfaatkan berbagai sumberdaya yang langka untuk menghasilkan berbagai komoditas yang bernilai dan mendistribusikan komoditas-komoditas tersebut di antara berbagai kelompok. (Paul A . Samuelson)
 
 ## Dua Pertanyaan Besar dalam Ilmu EKonomi
@@ -51,19 +54,23 @@ editor: visual
 ## Pendekatan Ilmiah dalam Memahami Ilmu & Kebijakan Ekonomi
 
 -   Pendekatan ilmiah menjadi kekuatan utama ilmu ekonomi dalam menganalisis perilaku agen ekonomi untuk menghasilkan suatu pengetahuan yang disusun dengan logika berpikir ilmiah --\> salah satu sumber dari pengetahuan ekonomi adalah pengamatan terhadap berbagai peristiwa ekonomi, khususnya dengan mengamati kejadian di masa lampau.
--   Dalam mempelajari ilmu ekonomi perlu dihindari :
-    -   post hoc fallacy yang terjadi akibat kesalahan penarikan kesimpulan dari kejadian dua peristiwa secara beruntun
-    -   seringkali kita mengasumsikan bahwa peristiwa pertama adalah penyebab dari peristiwa berikutnya, padahal, penarikan kesimpulan semacam ini tidak selalu benar.
-    -   adanya kesalahan komposisi. Kesalahan ini muncul ketika kita beranggapan bahwa sesuatu yang baik untuk satu individu maka baik pula untuk seluruh individu. Jika dalam tataran kebijakan, kesalahan komposisi terjadi ketika suatu kebijakan yang berhasil diterapkan pada suatu negara dianggap baik pula untuk negara lainnya.
 
-## Pendekatan Ilmiah dalam Memahami Ilmu & Kebijakan Ekonomi
+## Dalam mempelajari ilmu ekonomi perlu dihindari :
+
+-   Post hoc fallacy: kesalahan penarikan kesimpulan dari kejadian dua peristiwa secara beruntun: asumsi bahwa peristiwa pertama adalah penyebab dari peristiwa berikutnya ..yang tidak selalu benar.
+-   Kesalahan komposisi: anggapan bahwa sesuatu yang baik untuk satu individu maka baik pula untuk seluruh individu. 
+      + Jika dalam tataran kebijakan, kesalahan komposisi terjadi ketika suatu kebijakan yang berhasil diterapkan pada suatu negara dianggap baik pula untuk negara lainnya.
+
+## Pendekatan Ilmiah dalam Memahami Ilmu & Kebijakan Ekonomi ...lnjt
 
 -   Pasar seringkali gagal mengakomodasi kepentingan semua bagian masyarakat sehingga muncul yang disebut dengan market failure.
 -   Kebijakan ekonomi berperan penting dalam mengalokasikan serta mendistribusikan sumberdaya yang langka secara merata kepada masyarakat.
--   Fungsi pemerintah dalam kebijakan ekonomi dapat diklasifikasikan dalam 3 jenis, yaitu :
-    -   Fungsi stabilisasi diperlukan pada saat perekonomian sedang mengalami kondisi yang buruk, ditandai dengan adanya berbagai ketidakstabilan seperti harga, nilai tukar, dan sebagainya.
-    -   Fungsi alokasi diperlukan jika terjadi kegagalan pasar, dimana ada beberapa jenis barang yang tidak dapat diproduksi melalui mekanisme pasar, misalnya jalan raya, sehingga perlu intervensi pemerintah.
-    -   Fungsi distribusi dibutuhkan jika dalam perekonomian misalnya terjadi ketimpangan pendapatan antar masyarakat
+
+## 3 Fungsi pemerintah dalam kebijakan ekonomi:
+
+-   Fungsi stabilisasi: diperlukan pada saat perekonomian sedang mengalami kondisi yang buruk seperti ketidakstabilan seperti harga, nilai tukar, pengangguran tinggi.
+-   Fungsi alokasi: diperlukan jika terjadi kegagalan pasar dan menyediakan barang kebutuhan publik misalnya jalan raya, rumah sakit, sekolah.
+-   Fungsi distribusi: dibutuhkan jika terjadi ketimpangan antar masyarakat
 
 ## Pendekatan Ilmiah dalam Memahami Ilmu & Kebijakan Ekonomi
 
@@ -187,7 +194,9 @@ Terdapat tiga pendekatan yang dapat digunakan dalam menghitung PDB:
 
 -   PDB indonesia Berdasakan Pendekatan Pengeluaran (dalam ribuan rupiah)--\> BPS
 
-![](pdb-indonesia.png) \## Kelemahan PDB Sebagai Pengukur Kinerja
+![](pdb-indonesia.png)
+
+## Kelemahan PDB Sebagai Pengukur Kinerja
 
 -   Tidak memperhitungkan kerusakan lingkungan yang terjadi
 -   Tidak memperhitungkan kegiatan jual beli yang dilakukan tanpa melalui pasar
