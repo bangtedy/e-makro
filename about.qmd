@@ -1,40 +1,36 @@
 ---
-title: "Tinjauan Mata Kuliah"
+title: "Deskripsi Mata Kuliah"
 ---
 
-Mata kuliah Pengantar Ekonomi Makro merupakan matakuliah dasar di 
-fakultas ekonomi dengan bobot 3 sks. Ada pun tujuannya adalah untuk
-dapat menerapkan konsep dasar dan pemecahan permasalahan ekonomi 
-secara makro, selain itu untuk memperluas cakrawala pengetahuan.
+Ekonomi makro adalah sebuah cabang dari Ilmu Ekonomi yang menerapkan teori ekonomi untuk mengkaji kegiatan perekonomian secara secara keseluruhan suatu negara atau wilayah. Pembahasannya meliputi pertumbuhan, siklus dan tingkat harga ekonomi. Ekonomi makro berangkat dari fakta-fakta umum (*stylized facts*) yang terjadi di dunia nyata, kemudian membangun kerangka kerja teoritis untuk menjelaskan fakta-fakta ini.
 
-Matakuliah ini terdiri dari sembilan modul yang disajikan secara verbal, grafis dan matematis.
+Model-model ekonomi menggunakan tiga "bahasa" yaitu: (i) verbal, (ii) grafik, and (iii) matematik. Bahasa verbal memiliki kelebihan lebih mudah dipahami, tetapi terkadang kurang logis. Bahasa grafik menawarkan keunggulan pemahaman visual, tetapi kekurangannya grafik yang dibuat melenceng dari sifat model yang sebenarnya. Bahasa matematik lebih logis, tetapi terkadang sulit dipelajari dan dipahami.
+
+Pada mata kuliah Pengantar Ekonomi Makro ini kita akan menggunakan tiga bahasa ini untuk mempelajari persoalan-persoalan ekonomi makro. Matakuliah ini bersifat wajib di Fakultas Ekonomi (3 SKS) terdiri dari sembilan modul:
 
 Materi yang akan disajikan antara lain:
 
-1. Konsep Dasar Ilmu Ekonomi.
+1.  Konsep Dasar Ilmu Ekonomi.
 
-2. Pendapatan Nasional.
+2.  Pendapatan Nasional.
 
-3. Konsumsi, Tabungan dan Investasi.
+3.  Konsumsi, Tabungan dan Investasi.
 
-4. Permintaan Agregat dan Angka Pengganda.
+4.  Permintaan Agregat dan Angka Pengganda.
 
-5. Uang dan Peranannya dalam Perekonomian.
+5.  Uang dan Peranannya dalam Perekonomian.
 
-6. Peran Pemerintah dalam Perekonomian dan Kebijakan Fiskal.
+6.  Peran Pemerintah dalam Perekonomian dan Kebijakan Fiskal.
 
-7. Penawaran Agregat dan Pertumbuhan Ekonomi.
+7.  Penawaran Agregat dan Pertumbuhan Ekonomi.
 
-8. Stabilitas Harga, Pengangguran dan Siklus Bisnis.
+8.  Stabilitas Harga, Pengangguran dan Siklus Bisnis.
 
-9. Perekonomian Terbuka.
+9.  Perekonomian Terbuka.
 
-Buku Rujukan Utama: Harmadi, Sonny HB (2010), Pengantar Ekonomi Makro ESPA4110
+Buku Rujukan:
 
-Buku Rujukan Tambahan:
-
-- Mankiw, N. Gregory. 2004. Principles of Economics. 3rd Edition, Thomson South Western.
-
-- Paul A. Samuelson , William D. Nordhaus (1989). Economics. McGraw-Hill International Edition. 13th edition
-
-- Parkin, Michael. (2008). Economics. Ed.ke-8. USA: Person Edication, Inc
+1.  Harmadi, Sonny HB (2010), Pengantar Ekonomi Makro ESPA4110
+2.  Baumol, William J., Alan S. Blinder, and John L. Solow (2020), Macroeconomics: Principles and Policy, Fourteenth Edition. Cengage Learning, Inc.
+3.  Case, Karl E., Ray C. Fair and Sharon M. Oster, (2017). Principles of Macroeconomics. Pearson.
+4.  Mishkin, Frederic S., (2015). Macroeconomics Policy and Practice. Second Edition. Pearson.

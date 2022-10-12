@@ -1,0 +1,124 @@
+---
+title: "KONSUMSI, TABUNGAN DAN INVESTASI"
+author: "Tedy Herlambang"
+format: 
+  revealjs:
+    theme: simple
+editor: visual
+---
+
+## Cakupan Materi
+
+-   Fungsi konsumsi dan fungsi tabungan, Konsep marginal propensity to consume (MPC) dan marginal propensity to save (MPS)
+-   Faktor penentu tingkat konsumsi dan Faktor pendorong investasi
+-   Sistem keuangan dalam perekonomian
+-   Keterkaitan antara investasi dan tabungan dalam sistem pendapatan nasional
+-   Perbedaan tabungan dan investasi, Konsep anggaran surplus dan anggaran defisit, Pasar dana pinjaman
+
+## Fungsi Konsumsi
+
+-   Alat utama dalam menganalisa konsumsi: menggunakan fungsi konsumsi.
+-   Fungsi konsumsi: menunjukkan hubungan antara tingkat dari pengeluaran untuk konsumsi dengan tingkat dari pendapatan disposabel (disposable income) rumah tangga.
+-   Pendapatan disposabel: pendapatan yang telah dikurangi dengan pajak (diperkenalkan oleh Keynes, conjecture: terdapat hubungan empiris antara konsumsi dan pendapatan)
+-   Fungsi konsumsi secara grafik.
+
+## Fungsi Konsumsi
+
+![](fungsi-konsumsi.png)
+
+## Fungsi Tabungan
+
+![](pendapatan-disposable.png)
+
+## Marginal Propensity to Consume (MPC)
+
+- Marginal Propensity to Consume (MPC): sejumlah tambahan yang dikonsumsi saat menerima pendapatan tambahan. Rumus menghitung MPC:
+
+$$ MPC = \frac {\Delta Yd}{\Delta C}= \frac {Yd_1 - Yd_0}{C_1 - C_0}$$
+
+- Contoh Perhitungan MPC: $$ MPC = \frac {1.800.000-1.700.000}{1.760.000-1.685.000}=\frac {100}{75}= 1,33$$
+
+-   Secara grafik: slope dari fungsi konsumsi, yang mengukur perubahan konsumsi setiap perubahan rupiah yang terjadi dalam pendapatan disebut sebagai Marginal Propensity to Consume.
+
+## *Marginal Propensity to Save* (MPS)
+
+-   *Marginal Propensity to Save* (MPS): pembagian setiap tambahan rupiah dari pendapatan yang masuk ke dalam tabungan tambahan.
+-   Untuk menghitung MPS dapat digunakan rumus: $$ MPS = 1-MPC$$
+    -   Pada tingkat pendapatan berapapun, nilai jumlahan dari MPC dan MPS akan sama dengan 1, tidak lebih dan tidak kurang
+
+## Rumus MPS lain:
+
+$$ MPS=\frac {\Delta S}{\Delta Yd}=\frac {S_1-S_0}{Yd_1-Yd_0}$$
+## Penentu Tingkat Konsumsi Nasional 
+
+1. Pendapatan Disposabel --> pengeluaran konsumsi seseorang tidak hanya 
+dipengaruhi oleh pendapatan saat tertentu saja tetapi pendapatan dimasa lalu dan 
+masa yang akan datang, atau kecenderungan pendapatan yang akan diperoleh dalam 
+jangka panjang. 
+
+## Penentu Tingkat Konsumsi Nasional ..lnjt
+
+2. Teori pendapatan permanen dan teori siklus konsumsi 
+
+    + konsumen dalam menentukan anggaran belanja tidak hanya bergantung pada pendapatan tetap tetapi juga mempertimbangkan prospek pendapatan yang akan diterimanya dalam jangka panjang. 
+    + Teori pendapatan tetap (*permanent income theory*) dan hipotesis siklus-hidup (*life-cycle hypothesis*) serta analisis lainnya yang telah dikembangkan berupaya menjelaskan tentang kepercayaan dari konsumsi pada kecenderungan pendapatan dalam jangka panjang.  
+
+## Penentu Tingkat Konsumsi Nasional ..lnjt
+
+3. Tingkat kekayaan --> tingkat konsumsi dapat pula ditentukan oleh tingkat 
+kekayaan.  
+
+## Sistem Keuangan dalam Perekonomian 
+
+Sistem keuangan:
+
+* Institusi dalam perekonomian yang membantu mempertemukan orang yang memiliki kelebihan uang (yaitu orang yang memiliki tabungan) dan orang yang membutuhkan uang (karena kebutuhannya lebih besar dari jumlah pendapatan yang dimiliki), sehingga investor dapat meminjam uang untuk memenuhi kebutuhan investasinya. 
+
+## Institusi Keuangan: 
+
+1. Pasar Keuangan (*Financial Market*)
+
+    + **Pasar Saham** --> Saham merupakan surat berharga yang menunjukkan kepemilikan terhadap suatu perusahaan, sehingga pemilik dari saham ini akan berhak mendapatkan bagian dari keuntungan perusahaan --> surat berharga ini diperjualbelikan di pasar saham.
+    + **Pasar Obligasi** --> Obligasi merupakan sertifikat utang atau surat pernyataan utang yang menetapkan kewajiban-kewajiban dari orang/institusi yang berhutang kepada pemegang obligasi.
+
+## Pasar Keuangan ...lanjt
+
+- Obligasi ini berbeda dengan saham karena status individu/institusi yang memiliki obligasi adalah sebagai pemberi utang, sementara pemilik saham memiliki status sebagai pemilik perusahaan. 
+
+## Institusi Keuangan ...lanj
+
+2. Perantara Keuangan (*Financial Intermediares*)
+
+    + Bank --> aktvitas menabung dan meminjam 
+
+    + Mutal Fund/Reksadana --> Reksadana merupakan institusi keuangan yang menghimpun dana dari masyarakat dan kemudian dana ini diinvestasikan dalam bentuk portfolio investasi berupa saham dan obligasi. 
+
+## Investasi dan Tabungan dalam Sistem Pendapatan Nasional 
+
+* Persamaan I: $Y=C+I+G$
+
+    + PDB dalam sistem  perekonomian tertutup.
+    + Persamaan diatas berarti bahwa seluruh output yang dihasilkan dalam perekonomian hanya dimanfaatkan oleh orang yang terdapat di perekonomian tersebut, yaitu digunakan untuk keperluan konsumsi, investasi, dan pengeluaran pemerintah. 
+
+## Investasi dan Tabungan dalam Sistem Pendapatan Nasional ..lnjt
+
+* Persamaan II : $Y- C- G = I$  $Y- C- G = S$ 
+
+    + Sisi kiri dari persamaan ini merupakan total pendapatan dalam perekonomian yang tersisa setelah digunakan untuk keperluan konsumsi dan pengeluaran pemerintah. 
+    + Jumlah yang tersisa ini dikenal juga dengan sebutan tabungan nasional, yang 
+dilambangkan sebagai S. 
+
+## Investasi dan Tabungan dalam Sistem Pendapatan Nasional ..lnjt
+
+* Persamaan III: $S =I$
+
+--> Jumlah tabungan sebenarnya sama dengan jumlah investasi 
+
+## Perbedaan antara Tabungan (S) dan Investasi (I)
+
+Diskusikan, menurut anda: 
+
+* Tindakan membeli saham tergolong ke dalam aktivitas investasi atau menabung? 
+* Individu yang meminjam uang dari bank kemudian menggunakan uangnya untuk membangun pabrik dan membeli mesin produksi, maka tindakan individu ini dapat dikategorikan sebagai investasi? 
+
+

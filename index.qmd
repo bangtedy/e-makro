@@ -1,11 +1,11 @@
 ---
-title: "Pengantar Ilmu Ekonomi Makro"
+title: "Pengantar Ekonomi Makro"
 ---
 
 ## Materi Tutorial:
 
-1.  [Minggu 1: Konsep Dasar Ilmu Ekonomi/M1 dan Pendapatan Nasional/M2](https://bangtedy.github.io/e-makro/minggu1.html)
-2.  Minggu 2: Konsumsi, Tabungan dan Investasi/M3
+1.  Minggu 1: [Konsep Dasar Ilmu Ekonomi/M1 dan Pendapatan Nasional/M2](https://bangtedy.github.io/e-makro/minggu1.html)
+2.  Minggu 2: [Konsumsi, Tabungan dan Investasi/M3](https://bangtedy.github.io/e-makro/minggu2.html)
 3.  Minggu 3: Permintaan Agregat dan Angka Pengganda/M4
 4.  Minggu 4: Uang dan Peranannya dalam Perekonomian/M5
 5.  Minggu 5: Peran Pemerintah dalam Perekonomian dan Kebijakan Fiskal/M6
