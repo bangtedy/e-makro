@@ -4,6 +4,8 @@ author: "Tedy Herlambang"
 format: 
   revealjs:
     theme: simple
+    chalkboard: 
+      theme: chalkboard
 editor: visual
 ---
 
@@ -58,8 +60,8 @@ editor: visual
 ## Dalam mempelajari ilmu ekonomi perlu dihindari :
 
 -   Post hoc fallacy: kesalahan penarikan kesimpulan dari kejadian dua peristiwa secara beruntun: asumsi bahwa peristiwa pertama adalah penyebab dari peristiwa berikutnya ..yang tidak selalu benar.
--   Kesalahan komposisi: anggapan bahwa sesuatu yang baik untuk satu individu maka baik pula untuk seluruh individu. 
-      + Jika dalam tataran kebijakan, kesalahan komposisi terjadi ketika suatu kebijakan yang berhasil diterapkan pada suatu negara dianggap baik pula untuk negara lainnya.
+-   Kesalahan komposisi: anggapan bahwa sesuatu yang baik untuk satu individu maka baik pula untuk seluruh individu.
+    -   Jika dalam tataran kebijakan, kesalahan komposisi terjadi ketika suatu kebijakan yang berhasil diterapkan pada suatu negara dianggap baik pula untuk negara lainnya.
 
 ## Pendekatan Ilmiah dalam Memahami Ilmu & Kebijakan Ekonomi ...lnjt
 
