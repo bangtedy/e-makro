@@ -1,5 +1,5 @@
 ---
-title: "Konsep Dasar Ilmu Ekonomi dan Pendapatan Nasional"
+title: "Konsep Dasar Ilmu Ekonomi (M1)"
 author: "Tedy Herlambang"
 format: 
   revealjs:
@@ -111,34 +111,7 @@ editor: visual
 -   Masalah kenaikan harga --\> inflasi
 -   Neraca pembayaran dan neraca pembayaran
 
-# PENDAPATAN NASIONAL (Modul 2)
 
-## Cakupan Isi Materi
-
--   Pengertian/definisi Produk Domestik Bruto dengan Pendekatan Pengeluaran
--   Pengukuran Produk Domestik Bruto dengan Pendekatan Pengeluaran
--   Pengukuran Produk Domestik Bruto dengan Pendekatan Pendapatan
--   Pengukuran Produk Domestik Bruto dengan Pendekatan Produksi (Nilai Tambah)
--   PDB Nominal dan PDB Riil
--   Perhitungan PDB di Indonesia
--   Kelemahan PDB sebagai Pengukur Kinerja Perekonomian
--   Indikator lain pengukur kinerja ekonomi suatu negara
-
-## Pengukur Produk Domestik Bruto
-
--   Produk Domestik Bruto (PDB) adalah nilai pasar dari seluruh barang/jasa akhir yang dihasilkan oleh suatu negara dalam periode waktu tertentu.
-
-## Perhitungan Produk Domestik Bruto (PDB)
-
-Terdapat tiga pendekatan yang dapat digunakan dalam menghitung PDB:
-
--   Pendekatan pengeluaran:PDB dapat dipandang sebagai total pengeluaran yang dilakukan dalam perekonomian untuk memperoleh barang/jasa,
--   Pendekatan pendapatan: PDB dapat dipandang sebagai total pendapatan yang diperoleh setiap individu yang terdapat dalam perekonomian.
--   Pendekatan Nilai Tambah
-
-## Perhitungan Produk Domestik Bruto (PDB)
-
-![](circular-flow.png)
 
 ## Perhitungan PDB dengan Pendekatan Pengeluaran
 
